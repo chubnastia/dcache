@@ -16,7 +16,6 @@
 #  DOCKER_HUB_ACCESS_KEY: Access Key or Password of the docker user
 #
 #
-#
 #  KUBECONFIG: env file that contains kubernetes configuration to access the cluster
 #
 # dCache deployment in kubernetes managed by helm chart
